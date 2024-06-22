@@ -27,3 +27,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Reasons ###
+hs_err_pid11232.log
+hs_err_pid9644.log
