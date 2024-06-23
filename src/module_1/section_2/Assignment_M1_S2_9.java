@@ -2,7 +2,7 @@ package module_1.section_2;
 
 import utils.Printer;
 
-public class Assignment_M2_9 {
+public class Assignment_M1_S2_9 {
     public void answer(int a) {
         switch (a) {
             case 1:

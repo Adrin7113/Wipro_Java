@@ -2,7 +2,7 @@ package module_1.section_2;
 
 import utils.Printer;
 
-public class Assignment_M2_13 {
+public class Assignment_M1_S2_13 {
     public void answer(){
         for (int i = 10; i < 100; i++) {
             if(isPrime(i)){

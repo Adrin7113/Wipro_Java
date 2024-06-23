@@ -2,7 +2,7 @@ package module_1.section_2;
 
 import utils.Printer;
 
-public class Assignment_M2_17 {
+public class Assignment_M1_S2_17 {
     public void answer(int num){
         String parsedNum = String.valueOf(num);
         int length = parsedNum.length();

@@ -2,7 +2,7 @@ package module_1.section_2;
 
 import utils.Printer;
 
-public class Assignment_M2_1 {
+public class Assignment_M1_S2_1 {
 
     public void answer_1(int number) {
         if (number > 0) {

@@ -2,7 +2,7 @@ package module_1.section_2;
 
 import utils.Printer;
 
-public class Assignment_M2_12 {
+public class Assignment_M1_S2_12 {
     public void answer(int num){
         if (num <= 1){
             Printer.println("This is not a prime number");

@@ -2,7 +2,7 @@ package module_1.section_2;
 
 import utils.Printer;
 
-public class Assignment_M2_14 {
+public class Assignment_M1_S2_14 {
     public void answer(int num){
         int tempNum = num;
         int sum = 0;

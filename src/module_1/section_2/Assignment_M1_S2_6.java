@@ -4,7 +4,7 @@ import utils.Printer;
 
 import java.util.Objects;
 
-public class Assignment_M2_6 {
+public class Assignment_M1_S2_6 {
     public void answer(String gender, int age){
         if (Objects.equals(gender, "Male")){
             if (age >= 1 && age <= 58){

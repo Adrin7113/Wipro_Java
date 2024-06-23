@@ -2,7 +2,7 @@ package module_1.section_2;
 
 import utils.Printer;
 
-public class Assignment_M2_16 {
+public class Assignment_M1_S2_16 {
     public void answer(int num){
         int tempNum = num;
         StringBuilder finalAnswer = new StringBuilder();
